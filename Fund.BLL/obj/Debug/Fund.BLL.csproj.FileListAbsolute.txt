@@ -1,0 +1,14 @@
+D:\ASP.NET\Fund\FundProject\Fund.BLL\bin\Debug\Fund.BLL.dll
+D:\ASP.NET\Fund\FundProject\Fund.BLL\bin\Debug\Fund.BLL.pdb
+D:\ASP.NET\Fund\FundProject\Fund.BLL\bin\Debug\Fund.DAL.dll
+D:\ASP.NET\Fund\FundProject\Fund.BLL\bin\Debug\Fund.Entity.dll
+D:\ASP.NET\Fund\FundProject\Fund.BLL\bin\Debug\Fund.Utility.dll
+D:\ASP.NET\Fund\FundProject\Fund.BLL\bin\Debug\MySql.Data.dll
+D:\ASP.NET\Fund\FundProject\Fund.BLL\bin\Debug\Fund.DAL.pdb
+D:\ASP.NET\Fund\FundProject\Fund.BLL\bin\Debug\Fund.Entity.pdb
+D:\ASP.NET\Fund\FundProject\Fund.BLL\bin\Debug\Fund.Utility.pdb
+D:\ASP.NET\Fund\FundProject\Fund.BLL\obj\Debug\Fund.BLL.csproj.AssemblyReference.cache
+D:\ASP.NET\Fund\FundProject\Fund.BLL\obj\Debug\Fund.BLL.csproj.CoreCompileInputs.cache
+D:\ASP.NET\Fund\FundProject\Fund.BLL\obj\Debug\Fund.BLL.csproj.CopyComplete
+D:\ASP.NET\Fund\FundProject\Fund.BLL\obj\Debug\Fund.BLL.dll
+D:\ASP.NET\Fund\FundProject\Fund.BLL\obj\Debug\Fund.BLL.pdb

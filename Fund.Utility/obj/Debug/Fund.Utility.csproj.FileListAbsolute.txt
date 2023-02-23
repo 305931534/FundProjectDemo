@@ -1,0 +1,6 @@
+D:\ASP.NET\Fund\FundProject\Fund.Utility\bin\Debug\Fund.Utility.dll
+D:\ASP.NET\Fund\FundProject\Fund.Utility\bin\Debug\Fund.Utility.pdb
+D:\ASP.NET\Fund\FundProject\Fund.Utility\obj\Debug\Fund.Utility.csproj.AssemblyReference.cache
+D:\ASP.NET\Fund\FundProject\Fund.Utility\obj\Debug\Fund.Utility.csproj.CoreCompileInputs.cache
+D:\ASP.NET\Fund\FundProject\Fund.Utility\obj\Debug\Fund.Utility.dll
+D:\ASP.NET\Fund\FundProject\Fund.Utility\obj\Debug\Fund.Utility.pdb
